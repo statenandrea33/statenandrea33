@@ -8,6 +8,6 @@
 -GEOG 422/510
 
 ## More Info/ Contact
-For more information about course history and contact information visit https://statenandrea33.github.io/.
+For more information about course history and contact information visit [my website](https://statenandrea33.github.io/.)
 
 
