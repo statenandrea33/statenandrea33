@@ -1,5 +1,5 @@
 ### Andrea Staten
- I am a Junior at the University of Tennessee, Knoxville. I am currently pursuing a degree in Geographic Information Science and Technology with a minor in Political Science. With this degree I am hoping to get a job working for a local county or potentially a non-profit to make an impact on evironmental issues.
+ I am a Senior at the University of Tennessee, Knoxville. I am currently pursuing a degree in Geographic Information Science and Technology with a minor in Political Science. With this degree I am hoping to get a job working for a local county or potentially a non-profit to make an impact on evironmental issues.
 
 ## Education/Relevant Courses
 -GEOG 311<br>
